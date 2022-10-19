@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.example.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.067 s <<< FAILURE! - in com.example.AppTest
+shouldAnswerWithTrue  Time elapsed: 0.065 s  <<< ERROR!
+org.junit.platform.commons.PreconditionViolationException: Classpath resource [/Data.csv] does not exist
+
